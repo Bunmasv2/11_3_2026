@@ -1,9 +1,10 @@
 {
-  "name": "nnptud-c4",
+  "name": "NguyenNguyenThaiBao",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon ./bin/www"
+    "start": "nodemon ./bin/www",
+    "dev": "nodemon ./bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -15,5 +16,18 @@
     "morgan": "~1.9.1",
     "nodemon": "^3.1.11",
     "slugify": "^1.6.6"
-  }
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bunmasv2/11_3_2026.git"
+  },
+  "keywords": [],
+  "author": "Nguyen Thai Bao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bunmasv2/11_3_2026.git"
+  },
+  "homepage": "https://github.com/Bunmasv2/11_3_2026.git",
+  "description": ""
 }
